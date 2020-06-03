@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/rathnamkiran1/Dandu-Kiran-Rathnam/master/install_web.sh"],
+  "commandToExecute": "./install_web.sh"
+}
